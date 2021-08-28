@@ -14,18 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Year 2 CEG @ NUS
-          .__....._             _.....__,
-            .": o :':         ;': o :".
-            `. `-' .'.       .'. `-' .'
-              `---'             `---'
-
-    _...----...      ...   ...      ...----..._
- .-'__..-""'----    `.  `"`  .'    ----'""-..__`-.
-'.-'   _.--"""'       `-._.-'       '"""--._   `-.`
-'  .-"'                  :                  `"-.  `
-  '   `.              _.'"'._              .'   `
-        `.       ,.-'"       "'-.,       .'
-          `.                           .'
-            `-._                   _.-'
-                `"'--...___...--'"`
+<h1>
+  Year 2 CEG @ NUS :low_brightness:
+</h1>
+<hr>
+<pre alt="me sleeping" src="https://www.asciiart.eu/animals/cats">
+      |\      _,,,---,,_
+ZZZzz /,`.-'`'    -.  ;-;;,_    <-- <strong>Actually me in uni</strong>
+     |,4-  ) )-,_. ,\ (  `'-'
+    '---''(_/--'  `-'\_)   
+</pre>
+<hr>
