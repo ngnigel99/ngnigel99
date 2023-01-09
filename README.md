@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>
-  Year 2 CEG @ NUS :low_brightness:
+  Year 3 CEG @ NUS :low_brightness:
 </h1>
 <hr>
 <pre alt="me sleeping" src="https://www.asciiart.eu/animals/cats">
